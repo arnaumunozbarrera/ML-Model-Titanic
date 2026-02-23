@@ -6,7 +6,7 @@ Machine Learning project focused on predicting passenger survival on the Titanic
 
 ---
 
-## 📄 Project Overview  
+## 📄 Project Report
 
 This project explores supervised machine learning techniques to solve a binary classification problem: predicting whether a passenger survived the Titanic disaster.
 
@@ -14,13 +14,13 @@ The dataset includes demographic and socio-economic features such as age, gender
 
 ---
 
-## 📦 Prerequisites  
+## Prerequisites  
 
 - Python 3.9+  
 - An IDE such as Visual Studio Code, IntelliJ IDEA, or Jupyter Notebook  
 - pip (Python package manager)  
 
-### Recommended libraries:
+### Necessary libraries:
 - pandas  
 - numpy  
 - matplotlib  
